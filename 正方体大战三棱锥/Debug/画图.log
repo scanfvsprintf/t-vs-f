@@ -1,0 +1,4 @@
+﻿  画图.cpp
+g:\c\画图\画图\画图.cpp(32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\c\画图\画图\画图.cpp(33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  画图.vcxproj -> G:\C\画图\Debug\画图.exe
